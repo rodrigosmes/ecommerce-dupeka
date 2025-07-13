@@ -28,8 +28,6 @@ Desenvolvimento iniciado em julho de 2025. Entrega do MVP prevista para 60 dias.
 ### ⚙️ How (Como?)
 Utilizando tecnologias modernas (Next.js, Tailwind CSS, Node.js, PostgreSQL), foco em UX, performance, integração com WhatsApp Business API, formulário de contato e painel administrativo.
 
-### 💰 How Much (Quanto?)
-Projeto executado com equipe enxuta, estimativa inicial de custo: **R$ 25.000 a R$ 35.000**, com margem de expansão para funcionalidades avançadas e hospedagem escalável.
 
 ---
 
@@ -40,7 +38,7 @@ Projeto executado com equipe enxuta, estimativa inicial de custo: **R$ 25.000 a 
 - **Banco de Dados:** PostgreSQL
 - **Painel Admin:** Autenticado, com controle de produtos e pedidos
 - **Deploy:** Vercel (Frontend) e Render ou Railway (Backend)
-- **Integrações:** WhatsApp, E-mail SMTP, CRM (opcional)
+- **Integrações:** WhatsApp, E-mail SMTP
 
 ---
 
@@ -78,7 +76,7 @@ Empresas que já vestem Dupeka:
 
 1. **Exploração:** Navega por categorias ou busca específica
 2. **Customização:** Escolhe cores, tamanhos, tecidos, personalização
-3. **Orçamento:** Adiciona ao carrinho e solicita orçamento (mínimo de 30 peças)
+3. **Orçamento:** Adiciona ao carrinho e solicita orçamento (mínimo de 50 peças)
 4. **Contato:** Redirecionamento automático para WhatsApp ou formulário
 5. **Confirmação:** Mensagem no site informa que o pedido foi enviado com sucesso
 
@@ -112,7 +110,7 @@ Empresas que já vestem Dupeka:
 - Catálogo de produtos por categoria
 - Filtro por tecido, cor, tipo e segmento
 - Página detalhada de produto com variações
-- Carrinho de orçamento (pedido mínimo: 30 unidades)
+- Carrinho de orçamento (pedido mínimo: 50 unidades)
 - Redirecionamento automático para WhatsApp com mensagem pré-formatada
 - Login corporativo para acompanhar orçamentos
 - Integração com e-mail e WhatsApp para atualizações
@@ -164,13 +162,3 @@ Empresas que já vestem Dupeka:
 - Relatórios gerenciais no painel admin
 - Multilíngue (português e inglês)
 
----
-
-**📌 Contato com a equipe técnica:**  
-📧 rodrigo.dev@dupeka.com.br  
-📧 vitor.fullstack@dupeka.com.br  
-📧 anna.design@dupeka.com.br
-
----
-
-**🚀 Projeto com alma, código e visão de futuro. Vamos vestir o Brasil com excelência.**
