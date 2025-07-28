@@ -90,7 +90,7 @@ Desenvolver uma **plataforma de e-commerce B2B** completa para a **Dupeka Unifor
 - Brindes e Promocionais
 - Uniformes Escolares
 
-📌 **Pedido mínimo:** 60 peças (atualizado conforme política de produção)
+📌 **Pedido mínimo:** 50 peças (atualizado conforme política de produção)
 
 ---
 
