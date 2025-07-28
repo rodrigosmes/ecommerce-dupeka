@@ -1,8 +1,6 @@
 
 # 🧥 ECOMMERCE-DUPEKA – VERSÃO COMPLETA
 
-### 📅 Atualizado em: **28/07/2025**
-
 ---
 
 ## 🎯 Propósito do Projeto
