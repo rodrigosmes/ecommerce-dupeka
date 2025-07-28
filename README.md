@@ -1,164 +1,192 @@
 # 🧥 ECOMMERCE-DUPEKA
 
+### 📅 Atualizado em: 22/07/2025
+
 ---
 
 ## 🎯 Propósito do Projeto
 
-Desenvolver uma plataforma de e-commerce B2B para a Dupeka Uniformes, especializada em uniformes corporativos e promocionais personalizados. O objetivo é ampliar sua presença digital, facilitar o processo de pedidos e orçamentos, fortalecer o relacionamento com grandes empresas e expandir a atuação da marca em todo o Brasil.
+Desenvolver uma plataforma de e-commerce B2B para a Dupeka Uniformes, especializada em uniformes personalizados de alta qualidade para empresas em todo o Brasil. A proposta é captar clientes por meio de uma experiência digital clara, funcional, e visualmente limpa, com foco em eficiência no atendimento, personalização e automação de pedidos.
 
 ---
 
 ## 🧭 5W2H
 
 ### ✅ What (O quê?)
-Criação de um website moderno, responsivo e funcional, com catálogo completo de produtos personalizados, sistema de orçamento, painel administrativo e integração com canais de atendimento.
+Criação de um site institucional e comercial responsivo com sistema de orçamento personalizado, catálogo por categorias, filtros, carrinho, personalização de peças e painel administrativo.
 
 ### 🤔 Why (Por quê?)
-Atender à crescente demanda de empresas por canais digitais eficientes de compra, consolidar a imagem da Dupeka como fornecedora premium de uniformes e aumentar sua captação de clientes B2B.
+Atender à demanda por uniformes personalizados de forma profissional e ágil, fortalecer o posicionamento digital da Dupeka e escalar as vendas com foco em empresas de médio e grande porte.
 
 ### 👥 Who (Quem?)
-Idealizado por Rodrigo, Vitor e Anna, com apoio de designers, desenvolvedores e consultores estratégicos. Cliente: **Dupeka Uniformes**.
+Projeto realizado por Rodrigo, Vitor e Anna, com suporte de equipe de design, desenvolvimento e consultoria de inovação. Cliente: **Dupeka Uniformes**.
 
 ### 🌍 Where (Onde?)
-Hospedagem em nuvem (Vercel/Digital Ocean), com atuação nacional e foco especial no mercado corporativo do Rio de Janeiro.
+Acesso 100% online, com hospedagem em nuvem (Vercel/Render), alcance nacional com foco inicial no Rio de Janeiro.
 
 ### 🕓 When (Quando?)
-Desenvolvimento iniciado em julho de 2025. Entrega do MVP prevista para 60 dias.
+Início: Julho de 2025  
+MVP previsto para: 60 dias  
+Go-live: Outubro/2025
 
 ### ⚙️ How (Como?)
-Utilizando tecnologias modernas (Next.js, Tailwind CSS, Node.js, PostgreSQL), foco em UX, performance, integração com WhatsApp Business API, formulário de contato e painel administrativo.
-
+Utilizando Next.js, Tailwind CSS, Node.js, PostgreSQL, integração com WhatsApp, API de e-mail, painel admin com login seguro e UX centrada em B2B.
 
 ---
 
 ## 🧱 Arquitetura do Projeto
 
-- **Frontend:** Next.js (React), Tailwind CSS
+- **Frontend:** Next.js (React) com Tailwind CSS
 - **Backend:** Node.js + Express
 - **Banco de Dados:** PostgreSQL
-- **Painel Admin:** Autenticado, com controle de produtos e pedidos
-- **Deploy:** Vercel (Frontend) e Render ou Railway (Backend)
-- **Integrações:** WhatsApp, E-mail SMTP
+- **Painel Admin:** Controle de orçamentos, uploads e produtos
+- **Integrações:** WhatsApp Business, SMTP (e-mail), Google Analytics
+- **Hospedagem:** Vercel (frontend), Render ou Railway (backend)
 
 ---
 
-## 🧥 Catálogo Inicial de Produtos
+## 🧥 Catálogo Inicial e Categorias
 
-A Dupeka trabalha com diversos segmentos e produtos com personalização total. O site contará com:
+### Produtos:
+- Camisetas promocionais
+- Camisas polo
+- Regatas e baby looks
+- Casacos (moletom e microfibra)
+- Calças
+- Jalecos e aventais
+- Ecobags e sacolas promocionais
 
-- Camisas Polo (Malha Piquet, Algodão)
-- Camisetas Promocionais (Dry Fit, Malha PV)
-- Moletons (2 e 3 cabos, algodão e poliéster)
-- Aventais (Oxford, Brim)
-- Sacolas (Oxford, Microfibra)
-- Jaquetas, Ecobags e outros itens por encomenda
+### Categorias:
+- Uniformes Corporativos
+- Uniformes Esportivos
+- Saúde e Beleza
+- Hotéis, Restaurantes e Supermercados
+- Brindes e Promocionais
+- Uniformes Escolares
 
-📦 *Todos com opções de bordado, estampa, modelagem personalizada, punhos diferenciados e tecidos tecnológicos.*
-
----
-
-## 👩‍💼 Clientes Atendidos
-
-Empresas que já vestem Dupeka:
-
-- L'Oréal
-- Supermercados Guanabara
-- Zona Sul
-- Águas do Brasil
-- CBDA (Confederação Brasileira de Desportos Aquáticos)
-- Bravet
-- Frangos Rica
-- E outras marcas nacionais
+🧵 **Pedido mínimo: 50 peças**
 
 ---
 
-## 💡 Fluxo do Usuário
+## 🎨 Personalização
 
-1. **Exploração:** Navega por categorias ou busca específica
-2. **Customização:** Escolhe cores, tamanhos, tecidos, personalização
-3. **Orçamento:** Adiciona ao carrinho e solicita orçamento (mínimo de 50 peças)
-4. **Contato:** Redirecionamento automático para WhatsApp ou formulário
-5. **Confirmação:** Mensagem no site informa que o pedido foi enviado com sucesso
-
----
-
-## 🧠 FAQ e Suporte
-
-- Botão fixo de **Dúvidas?** em todas as páginas
-- Página de **Perguntas Frequentes (FAQ)**:
-  - Qual o pedido mínimo?
-  - Como funciona a personalização?
-  - Qual o prazo de entrega?
-  - Vocês entregam em todo o Brasil?
+- **Estampas e bordados**: logos, nomes, slogans e grafismos
+- **Cores e tecidos diferenciados**: dry-fit, tecnológico, texturas mistas
+- **Modelagem**: gola polo, V, padre, oversized, ajustada
+- **Aplicações**: bolsos funcionais, mangas com punho, costuras aparentes
+- **Upload de logo ou arte pelo cliente**
 
 ---
 
-## 📱 Estilo Visual
+## 🌈 Paleta de Cores Dupeka
 
-- Design clean, moderno e responsivo
-- Tipografia institucional séria e amigável
-- Paleta de cores inspirada na identidade visual da Dupeka
-- Destaque para produtos com imagens de alta qualidade
-- UX simplificado e intuitivo
+Preto, Marrom, Bordô, Vermelho, Laranja, Amarelo, Verde, Azul, Lilás, Roxo, Rosa  
+*Outras cores sob consulta RGB*
 
 ---
 
-## 🛠️ Funcionalidades
+## 📦 Tecidos Disponíveis
 
-### Funcionalidades Gerais:
-
-- Catálogo de produtos por categoria
-- Filtro por tecido, cor, tipo e segmento
-- Página detalhada de produto com variações
-- Carrinho de orçamento (pedido mínimo: 50 unidades)
-- Redirecionamento automático para WhatsApp com mensagem pré-formatada
-- Login corporativo para acompanhar orçamentos
-- Integração com e-mail e WhatsApp para atualizações
-
-### Funcionalidades Adicionais:
-
-- Página institucional "Sobre a Dupeka"
-- Portfólio de clientes atendidos
-- Blog com artigos, novidades e tendências do setor
-- Newsletter B2B
-- Botão flutuante do WhatsApp
-- Compartilhamento de produtos nas redes sociais
+- Oxford (100% poliéster)
+- Microfibra (100% poliéster)
+- Brim (100% algodão)
+- Malha Piquet (50% algodão, 50% poliéster)
+- Malha Penteada (100% algodão)
+- Drifit (100% poliéster)
+- Malha PV (65% poliéster, 35% viscose)
+- Moletom 2 e 3 cabos (algodão + poliéster, gramatura 300–350 g/m²)
 
 ---
 
-## ♿ Acessibilidade
+## 🧠 Estrutura de Páginas do Site
 
-- Navegação via teclado e leitores de tela
-- Alto contraste e fontes legíveis
-- Responsividade total (mobile-first)
-- Etiquetas e textos alternativos em imagens
+### 🔹 Início
+- Banner principal (novidade ou destaque)
+- Produtos mais vendidos
+- Botão “Solicitar orçamento”
+- Depoimentos
+- Barra com “Entrega em todo o Brasil”, cupom e formas de pagamento
+
+### 🔹 Sobre a Dupeka
+- História da empresa
+- Marcas atendidas (L'Oréal, Zona Sul, CBDA etc.)
+- Missão, visão e valores
+
+### 🔹 Produtos
+- Navegação por categoria
+- Filtro por tipo de peça
+- Cada item com botão “Personalizar” e “Adicionar ao orçamento”
+
+### 🔹 Personalize Seu Uniforme
+- Escolha de modelo, tecido, cor, gola
+- Upload de logo
+- Campo de observações
+
+### 🔹 Passo a Passo (interativo)
+1. Atendimento inicial  
+2. Prova de layout  
+3. Aprovação  
+4. Prova de bordado  
+5. Proposta final  
+6. Produção  
+7. Entrega
+
+### 🔹 Orçamento
+- Formulário detalhado
+- Upload de arquivos
+- WhatsApp integrado
+
+### 🔹 Carrinho e Pagamento
+- Pix, crédito, débito
+- Cupom DUPEKA10 (10% na 1ª compra)
+
+### 🔹 FAQ
+- Pedido mínimo
+- Personalização
+- Amostras e prazos
+- Entrega nacional
+- Pagamentos aceitos
+
+### 🔹 Contato
+- Formulário
+- E-mail e telefone
+- Botão fixo do WhatsApp
 
 ---
 
-## 🔐 Segurança
+## ❓ FAQ (Dúvidas Frequentes)
 
-- Conformidade com a LGPD
+1. **Qual é o pedido mínimo?**  
+   R: 50 peças por pedido.
+
+2. **Quais tipos de personalização vocês oferecem?**  
+   R: Estampas, bordados, modelagens, acabamentos especiais.
+
+3. **Posso enviar minha própria arte?**  
+   R: Sim. Preferencialmente em PDF, AI, SVG ou PNG de alta resolução.
+
+4. **Vocês enviam amostra antes da produção?**  
+   R: Sim. Mediante custo adicional.
+
+5. **Qual o prazo médio de produção?**  
+   R: Variável. Definido após aprovação final.
+
+6. **Vocês entregam para todo o Brasil?**  
+   R: Sim, com transportadoras parceiras.
+
+7. **Formas de pagamento?**  
+   R: Pix, crédito, débito, parcelamento em até 6x.
+
+---
+
+## 📈 Extras Técnicos e Comerciais
+
+- SEO otimizado para Google (meta tags, sitemap)
 - Certificado SSL (HTTPS)
-- Autenticação e autorização para o painel admin
-- Validação de formulários no frontend e backend
+- Botão fixo do WhatsApp em todas as páginas
+- Rodapé com selos, redes sociais e atalhos
+- Página de termos e LGPD
 
 ---
 
-## 🚀 Desempenho
-
-- Otimização de imagens (next/image, compressão)
-- Lazy loading em componentes pesados
-- Tempo de carregamento abaixo de 3 segundos
-- SEO friendly (meta tags, sitemap.xml, robots.txt)
-- Core Web Vitals monitorados
-
----
-
-## ✨ Futuras Expansões
-
-- Painel do cliente com histórico de pedidos
-- Integração com ERPs (Bling, Tiny)
-- Pagamento online (caso o modelo de negócio mude)
-- Relatórios gerenciais no painel admin
-- Multilíngue (português e inglês)
-
+**🚀 Projeto com inovação, confiança e excelência. A Dupeka veste grandes marcas, e agora, veste seu negócio.**
